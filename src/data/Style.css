@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+
+.navig {
+    padding: 0px 25px;
+}
+
+.home {
+    text-align: center; 
+    color: blue;
+    font-weight: bolder;
+}
+
+.clients {
+    text-align: center; 
+    color: purple; 
+    font-weight: bolder;
+}
+
+.doctors {
+    text-align: center; 
+    color: plum; 
+    font-weight: bolder;
+}
+
+.events {
+    text-align: center; 
+    color: orange;
+    font-weight: bolder;
+}
+
+.appointments {
+    text-align: center; 
+    color: orange;
+    font-weight: bolder;
+}
